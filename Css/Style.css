@@ -1,0 +1,128 @@
+body{
+    margin: 0; 
+    text-align: center;
+    font-size: 1.2rem;
+    font-family: 'Roboto Slab', serif;
+    background-color: #F9F9F9;
+}
+h1{
+    font-size: 5rem;
+    margin: 0;
+    font-family:'Sacramento', cursive;
+    color:  #66BFBF;
+    line-height: 2;
+    
+
+
+}
+h2{
+    color:  #66BFBF;
+    font-weight: normal;
+}
+h3{
+    color:  #11999E;
+}
+a{
+    color:  #11999E;
+}
+a:hover{
+    color:white;
+}
+.aziz{
+    font-size: 2.5em;
+}
+#Top-container{
+    color: rgb(75, 7, 7);
+    background-color: #EAF6F6;
+
+}
+#Middle-container{
+  
+
+}
+.bottom-container{
+    background-color:#66BFBF;
+    height: 150px;
+    padding: 40px 0 0 0;
+    
+  
+}
+.footer-link{
+    color: #11999E;
+    margin:20px auto ;
+    text-decoration: none;
+    margin: auto 10px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    top: 400px;
+}
+.above-cloud{
+    position: relative;
+    left: 290px;
+    top:30px;
+
+}
+.Aziz{
+    position: relative;
+    top: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.soccer{
+    margin-right: 30px;
+    width: 25%;
+    float: left;
+}
+.web{
+    margin-right: 30px;
+    width: 25%;
+    float: right;
+}
+.color{
+    color: #40514E;
+    width: 30%;
+    margin: auto;
+}
+hr{
+    border-style: none;
+    border-top-style:dotted;
+    border-color:#EAF6F6;
+    width: 4%;
+    border-width: 6px;
+    margin: 7% auto;
+    
+}
+.margin{
+    margin: 4% auto 4% auto;
+    width: 30%;
+}
+
+.azizimagemargin{
+    margin-top: 4%;
+}
+.button{
+    border-radius: 8px;
+    background: linear-gradient(#11cdd4 , #11999e    );
+    color: whitesmoke;
+    margin: 40px auto 80px;
+    border: none;
+    padding: 8px 12px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.2rem;
+    
+    
+
+}
+.button:hover{
+    background: linear-gradient( #30e3cb ,  #2bc4ad);
+}
+.surname{
+    color: #EAF6F6;
+    margin: 20px 0 0 0;
+}
